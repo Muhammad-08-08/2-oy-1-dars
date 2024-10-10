@@ -1,0 +1,6 @@
+.card-main{
+    display: flex;
+    gap: 140px;
+    justify-content: center;
+    margin-top: 50px;
+}
